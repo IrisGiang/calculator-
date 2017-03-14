@@ -1,0 +1,9 @@
+d:\users\iris\documents\visual studio 2015\Projects\Iris_Calc\Iris_Calc\bin\Debug\Iris_Calc.exe.config
+D:\Users\Iris\Documents\Visual Studio 2015\Projects\Iris_Calc\Iris_Calc\bin\Debug\Iris_Calc.exe
+D:\Users\Iris\Documents\Visual Studio 2015\Projects\Iris_Calc\Iris_Calc\bin\Debug\Iris_Calc.pdb
+D:\Users\Iris\Documents\Visual Studio 2015\Projects\Iris_Calc\Iris_Calc\obj\Debug\Iris_Calc.csprojResolveAssemblyReference.cache
+D:\Users\Iris\Documents\Visual Studio 2015\Projects\Iris_Calc\Iris_Calc\obj\Debug\Iris_Calc.Form1.resources
+D:\Users\Iris\Documents\Visual Studio 2015\Projects\Iris_Calc\Iris_Calc\obj\Debug\Iris_Calc.Properties.Resources.resources
+D:\Users\Iris\Documents\Visual Studio 2015\Projects\Iris_Calc\Iris_Calc\obj\Debug\Iris_Calc.csproj.GenerateResource.Cache
+D:\Users\Iris\Documents\Visual Studio 2015\Projects\Iris_Calc\Iris_Calc\obj\Debug\Iris_Calc.exe
+D:\Users\Iris\Documents\Visual Studio 2015\Projects\Iris_Calc\Iris_Calc\obj\Debug\Iris_Calc.pdb
